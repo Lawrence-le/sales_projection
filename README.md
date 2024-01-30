@@ -40,7 +40,7 @@ Calculate:
 
 ### After clicking OK on Goal Seek, Tables below will auto update to the values shown below.
 
-![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/836747cf-993e-4f63-b855-e9993b6ab9da)
+![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/7a9c3f48-ee6b-4af6-811d-7f3b47fa7bd4)
 
 ### Goal Seek found the breakeven ramp up rate to be 45%
 
