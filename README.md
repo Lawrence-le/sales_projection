@@ -24,7 +24,7 @@ Calculate:
 * Monthly Cost
 * Total Cost at Month 6 including the initial investment
 
-![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/488e5391-168c-4419-92c1-a6af516cb803)
+![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/a94780f2-ebe6-4741-9cce-d71d96c3c1a2)
 
 ### Using a Data Table to find the different Profit/Loss outcome at Month 6 with each Ramp Up Rate (%)
 * With the Data Table, execute Excel What-If Analysis using Data Table to calculate the corresponding Profit/Loss
