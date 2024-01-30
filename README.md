@@ -19,12 +19,14 @@ The company aims to break even within the first six months starting from 500 uni
 To find the monthly projected ramp up rate to reach breakeven point.
 
 ### Using Excel
+Input the values from the assumptions made and input a dummy value for Ramp Up Rate
+
 Calculate:
 * Monthly Profit
 * Monthly Cost
 * Total Cost at Month 6 including the initial investment
 
-![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/a94780f2-ebe6-4741-9cce-d71d96c3c1a2)
+![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/07c51d89-6a97-4590-a2a9-e92ef1f5b1a0)
 
 ### Using a Data Table to find the different Profit/Loss outcome at Month 6 with each Ramp Up Rate (%)
 * With the Data Table, execute Excel What-If Analysis using Data Table to calculate the corresponding Profit/Loss
